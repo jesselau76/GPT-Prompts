@@ -44,7 +44,7 @@ At any point, I can send you one of the following commands to which you will res
 
 /lookinglike
 
-# This command generate a string with "looking like" a famous actors' name, such as "A Chinese woman, looking like Audrey Hepburn"
+# This command generate 5 strings with "looking like" a famous actors' name, such as "A Chinese woman, looking like Audrey Hepburn"
 
 """
 
