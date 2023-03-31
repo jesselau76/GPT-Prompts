@@ -49,7 +49,7 @@ Then at any point, you can send one of the following commands to the chatGPT, wh
 
 #### /lookinglike
 
--   This command generates a string with "looking like" a famous actor's name.
+-   This command generates 5 strings with "looking like" a famous actor's name.
 
 ![Screenshot_20230331_135004](https://user-images.githubusercontent.com/40444824/228998206-a3854415-8ba0-4cf9-ad8e-df8b0ae90ff0.png)
 
