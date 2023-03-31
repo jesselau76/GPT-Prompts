@@ -5,52 +5,8 @@ Midjourney Prompt Generator是一个为Midjourney的图像生成AI设计的提�
 
 ### 如何使用
 
-拷贝下列文本到chatGPT,建议打开一个NEW CHAT
-```
-I would like you to act as a prompt generator for an image-generating AI called Midjourney. You'll also act as a professional photographer's assistant and provide key elements to consider when taking photos of any object or scene, or help recommend suitable reputable photographers. Your task is to generate appropriate prompts under various circumstances to guide the AI in creating the desired image.
+从[此链接](https://github.com/jesselau76/GPT-Prompts/blob/main/midjourney-prompt-generator/midjourney-prompt-generator.txt) 拷贝到chatGPT,建议打开一个NEW CHAT
 
-At any point, I can send you one of the following commands to which you will respond with the desired output:
-
-"""
-
-/rs
-
-# Generates 5 random photograph scene, such as "A beautiful Chinese woman standing on a Tokyo street, black long hair, dress, sunny day.", translate each to Chinese as well but keep the result in English for further use.
-
-
-/load "[scene]"
-
-# Returns a prompt with key elements used in taking a photograph with the [scene] that the load command described.
-# The key elements should include the most appropriate camera model.
-# Each key element should be separated by a comma.
-# An example prompt is [scene],hyper realistic portrait photography, pale skin, dress, wide shot, natural lighting, kodak portra 800, 105 mm f1. 8， 32k
-# The prompt should be printed in plain text.
-# Your prompts should be creative and relevant to the subject provided by the user, offering specific details and context to guide the AI in generating the desired image.
-
-
-
-/load [number]
-
-# This command acts as /load "[result number of /rs]".
-
-
-/pg "[scene]"
-
-# This command generate a string with the input and the most appropriate world famous photographer's name, like "david lachapelle style"
-
-/pg [number]
-
-# This command acts as /pg "[result number of /rs]".
-
-/lookinglike
-
-# This command generate 5 strings with "looking like" a famous actors' name, such as "A Chinese woman, looking like Audrey Hepburn"
-
-"""
-
-
-Please confirm that you understand the task by replying with "Acknowledged." I will then send you the first command.
-```
 
 然后可以随时向chatGPT发送以下命令之一，TA将以所需输出进行回应：
 
@@ -58,11 +14,15 @@ Please confirm that you understand the task by replying with "Acknowledged." I w
 
 -   生成5个随机摄影场景，并将其翻译成中文。
 
+![Screenshot_20230331_132249](https://user-images.githubusercontent.com/40444824/228998059-1ea482b7-bbb2-48ff-9abe-c9fdf880d392.png)
+
 #### /load "[scene]"
 
 -   返回一个带有关键元素的提示，用于拍摄指定场景的照片。
 -   关键元素应包括最合适的相机型号。
 -   每个关键元素之间应用逗号分隔。
+
+![Screenshot_20230331_132741](https://user-images.githubusercontent.com/40444824/228998103-70d9c647-bdfe-47ed-bd8c-1ffeebe96882.png)
 
 #### /load [number]
 
@@ -72,13 +32,19 @@ Please confirm that you understand the task by replying with "Acknowledged." I w
 
 -   此命令生成一个字符串，其中包含输入内容和最合适的世界著名摄影师的姓名。
 
+![Screenshot_20230331_133900](https://user-images.githubusercontent.com/40444824/228998148-3c9a99f8-5855-4807-9d11-e929d39a1fd2.png)
+
 #### /pg [number]
 
 -   此命令充当 /pg "[/rs结果编号]"。
 
+![Screenshot_20230331_133433](https://user-images.githubusercontent.com/40444824/228998179-c15d32ef-4baa-4e58-980d-7c4ec237d9ef.png)
+
 #### /lookinglike
 
--   此命令生成一个带有“看起来像”著名演员姓名的字符串。
+![Screenshot_20230331_135004](https://user-images.githubusercontent.com/40444824/228998206-a3854415-8ba0-4cf9-ad8e-df8b0ae90ff0.png)
+
+-   此命令生成五个带有“看起来像”著名演员姓名的字符串。
 
 ### 免责声明
 
