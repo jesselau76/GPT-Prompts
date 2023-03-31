@@ -7,6 +7,7 @@ Midjourney Prompt Generator是一个为Midjourney的图像生成AI设计的提�
 
 从[此链接](https://github.com/jesselau76/GPT-Prompts/blob/main/midjourney-prompt-generator/midjourney-prompt-generator.txt) 拷贝到chatGPT,建议打开一个NEW CHAT
 
+这个[推文](https://twitter.com/jesselaunz/status/1641593211213975552?s=20)有完整演示。
 
 然后可以随时向chatGPT发送以下命令之一，TA将以所需输出进行回应：
 
