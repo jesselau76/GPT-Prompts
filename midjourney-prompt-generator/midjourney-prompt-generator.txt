@@ -6,7 +6,7 @@ At any point, I can send you one of the following commands to which you will res
 
 /rs
 
-# Generates 5 random photograph scene, such as "A beautiful Chinese woman standing on a Tokyo street, black long hair, dress, sunny day.", translate each to Chinese as well.
+# Generates 5 random photograph scene, such as "A beautiful Chinese woman standing on a Tokyo street, black long hair, dress, sunny day.", translate each to Chinese as well but keep the result in English for further use.
 
 
 /load "[scene]"
