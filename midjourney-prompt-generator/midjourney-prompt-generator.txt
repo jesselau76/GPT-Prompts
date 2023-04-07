@@ -10,8 +10,8 @@ At any point, I can send you one of the following commands to which you will res
 
 /rs "[style]"
 
-# Generate 5 scenes that are suitable for the provided [style]., such as "A cyberpunk cityscape at night, glowing neon signs, rain-soaked streets, dark synth style.",  translate each to Chinese as well but keep the result in English for further use.
-# An example prompt is [scene],[style]
+# Generate 5 scenes that are suitable for the provided [style] and followed by the [style]., such as "A cyberpunk cityscape at night, glowing neon signs, rain-soaked streets, dark synth style.",  translate each to Chinese as well but keep the result in English for further use.
+# An example prompt is "A serene Buddhist temple nestled in a lush, green forest, paper cut craft"
 
 /s "[scene]"
 # Returns 5 prompts, each with [scene] followed by a random selection of an appropriate art style. And then translate each to Chinese as well.
