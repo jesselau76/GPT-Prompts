@@ -20,7 +20,7 @@ Midjourney Prompt Generator是一个为Midjourney的图像生成AI设计的提�
 #### /rs "[style]"
 
 -   基于提供的[艺术风格]，生成5个合适该风格的随机摄影场景，并将其翻译成中文。
--   艺术风格包括:"Qing Dynasty style,Dark Synth,Vaporwave,Prismatic,Sfumato,Impasto,Pentimento, Diffusion, Deconstructivism,Fractal,Filagree,Sgraffito,Ukiyo-e,Encaustic ,Kinetic art,Op art,Aboriginal dot painting,Feng Shui,Wabi Sabi"。 不仅限于这些风格。
+-   艺术风格包括:"Dark Synth,Vaporwave,Prismatic,Sfumato,Impasto,Pentimento, Diffusion, Deconstructivism,Fractal,Filagree,Sgraffito,Ukiyo-e,Encaustic ,Kinetic art,Op art,Aboriginal dot painting,Feng Shui,Wabi Sabi"。 不仅限于这些风格。
 
 #### /s "[scene]"
 
