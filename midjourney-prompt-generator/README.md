@@ -19,6 +19,11 @@ Then at any point, you can send one of the following commands to the chatGPT, wh
 
 ![Screenshot_20230331_132249](https://user-images.githubusercontent.com/40444824/228998059-1ea482b7-bbb2-48ff-9abe-c9fdf880d392.png)
 
+#### /rs "[style]"
+
+- Based on the provided [style], generate 5 random photography scenes suitable for that style and translate them into Chinese.
+- The art style is like:"Qing Dynasty style,Dark Synth,Vaporwave,Prismatic,Sfumato,Impasto,Pentimento, Diffusion, Deconstructivism,Fractal,Filagree,Sgraffito,Ukiyo-e,Encaustic ,Kinetic art,Op art,Aboriginal dot painting,Feng Shui,Wabi Sabi". etc., but the list is not limited to these styles.
+
 #### /s "[scene]"
 
 -   Returns 5 prompts, each with [scene] followed by a random selection of an appropriate art style. And then translate each to Chinese as well.
