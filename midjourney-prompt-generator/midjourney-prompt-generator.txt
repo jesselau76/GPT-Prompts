@@ -8,6 +8,11 @@ At any point, I can send you one of the following commands to which you will res
 
 # Generates 5 random photograph scene, such as "A beautiful Chinese woman standing on a Tokyo street, black long hair, dress, sunny day.", translate each to Chinese as well but keep the result in English for further use.
 
+/rs "[style]"
+
+# Generate 5 scenes that are suitable for the provided [style]., such as "A cyberpunk cityscape at night, glowing neon signs, rain-soaked streets, dark synth style.",  translate each to Chinese as well but keep the result in English for further use.
+# An example prompt is [scene],[style]
+
 /s "[scene]"
 # Returns 5 prompts, each with [scene] followed by a random selection of an appropriate art style. And then translate each to Chinese as well.
 # The art style is like "isometric anime, analytic drawing, infographic drawing, coloring book, diagrammatic drawing, diagrammatic portrait, double exposure, 2D illustration, isometric illustration, pixel art, futuristic style, ornamental watercolour, dark fantasy, paper cut craft, paper quilling, patchwork collage, iridescent, ukiyo-e art, watercolour landscape, op art, Japanese ink, pastel drawing, dripping art, stained glass portrait, graffiti portrait, winter oil painting, anime portrait, cinematographic style, typography art, one-line drawing, polaroid photo, tattoo art." etc., but the list is not limited to these styles.
