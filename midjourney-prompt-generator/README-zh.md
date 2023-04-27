@@ -63,7 +63,7 @@ Midjourney Prompt Generator是一个为Midjourney的图像生成AI设计的提�
 
 
 ## Midjourney Wallpaper Prompt Generator
-Midjourney Wallpaper Prompt Generator是一个为方便使用Midjourney的图像生成壁纸的提示生成器。
+Midjourney Wallpaper Prompt Generator是一个为方便使用Midjourney生成各种尺寸壁纸的提示生成器。
 
 ### 如何使用
 

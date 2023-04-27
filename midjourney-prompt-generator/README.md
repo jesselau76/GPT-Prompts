@@ -67,7 +67,7 @@ Then at any point, you can send one of the following commands to the chatGPT, wh
 
 
 ## Midjourney Wallpaper Prompt Generator
-Midjourney Wallpaper Prompt Generator是一个为方便使用Midjourney的图像生成壁纸的提示生成器。
+The Midjourney Wallpaper Prompt generator is a prompt generator that makes it easy to use MidJourney to generate wallpapers of various sizes.
 
 ### How to use
 
@@ -76,12 +76,17 @@ Copy the prompt from [here](https://github.com/jesselau76/GPT-Prompts/blob/main/
 #### /rs "[device]" "[scene]"
 
 -   This command will generate five wallpaper scenes suitable for the device based on the provided device resolution. You can choose to specify a particular scene, or if no scene is specified, it will randomly generate a scene. 
-
 - [device] such as iPhone13, MacbookPro 2023, iPad and so on.
+
+
+![Screenshot_20230427-231305](https://user-images.githubusercontent.com/1813584/234909815-264714c3-f813-43bb-9f38-8b692b048e87.png)
+
 
 #### /rp "[device]" "[scene]"
 
 - This command will generate five wallpaper scenes suitable for the device based on the provided device resolution. You can choose to specify a particular scene or it will randomly generate a scene that includes an appropriate photography style suitable for taking photos, including the most suitable camera model.
+
+![Screenshot_20230427-231550](https://user-images.githubusercontent.com/1813584/234909775-5c1eea6b-9a97-4b30-a7de-45f7345f1bf6.png)
 
 
 
