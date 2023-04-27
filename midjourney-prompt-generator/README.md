@@ -65,6 +65,26 @@ Then at any point, you can send one of the following commands to the chatGPT, wh
 
 ![Screenshot_20230331_135004](https://user-images.githubusercontent.com/40444824/228998206-a3854415-8ba0-4cf9-ad8e-df8b0ae90ff0.png)
 
+
+## Midjourney Wallpaper Prompt Generator
+Midjourney Wallpaper Prompt Generator是一个为方便使用Midjourney的图像生成壁纸的提示生成器。
+
+### How to use
+
+Copy the prompt from [here](https://github.com/jesselau76/GPT-Prompts/blob/main/midjourney-prompt-generator/midjourney-wallpaper-prompt-generator.txt) to your chatGPT, and send to him/her using a new chat
+
+#### /rs "[device]" "[scene]"
+
+-   This command will generate five wallpaper scenes suitable for the device based on the provided device resolution. You can choose to specify a particular scene, or if no scene is specified, it will randomly generate a scene. 
+
+- [device] such as iPhone13, MacbookPro 2023, iPad and so on.
+
+#### /rp "[device]" "[scene]"
+
+- This command will generate five wallpaper scenes suitable for the device based on the provided device resolution. You can choose to specify a particular scene or it will randomly generate a scene that includes an appropriate photography style suitable for taking photos, including the most suitable camera model.
+
+
+
 ### Disclaimer
 
 The Midjourney Prompt Generator is a tool that provides creative suggestions and recommendations based on its AI model. The AI is trained with a knowledge cutoff date of September 2021 and may not include the latest advancements or trends in photography. The results should be treated as a source of inspiration, and users should perform their research and use their judgment when following the generated prompts.

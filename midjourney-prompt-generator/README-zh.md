@@ -61,6 +61,24 @@ Midjourney Prompt Generator是一个为Midjourney的图像生成AI设计的提�
 
 -   此命令生成五个带有“看起来像”著名演员姓名的字符串。
 
+## Midjourney Wallpaper Prompt Generator
+Midjourney Wallpaper Prompt Generator是一个为方便使用Midjourney的图像生成壁纸的提示生成器。
+
+### 如何使用
+
+从[此链接](https://github.com/jesselau76/GPT-Prompts/blob/main/midjourney-prompt-generator/midjourney-wallpaper-prompt-generator.txt) 拷贝到chatGPT,建议打开一个NEW CHAT
+
+#### /rs "[device]" "[scene]"
+
+-   该指令会根据提供的设备分辨率，生成五个适用于设备壁纸的场景，可选择指定一个特定场景。如果未指定场景，则随机生成场景。
+-   [device] 例如 iPhone13，MacbookPro 2023，iPad  等
+
+#### /rp "[device]" "[scene]"
+
+-   该指令会根据提供的设备分辨率，生成五个适用于设备壁纸的场景，可选择指定一个特定场景。如果未指定场景，则随机生成场景，并会选择适合于拍摄照片的合适摄影风格，包括最合适的相机型号。
+
+
+
 ### 免责声明
 
 Midjourney Prompt Generator是一个提供基于其AI模型的创意建议和推荐的工具。AI接受的知识截止日期为2021年9月，可能不包括摄影领域的最新进展或趋势。用户在使用生成的提示时，应将其视为灵感来源，并进行自己的研究，运用自己的判断。
