@@ -51,6 +51,18 @@ At any point, I can send you one of the following commands to which you will res
 
 # This command generate 5 strings with "looking like" a famous actors' name, such as "A Chinese woman, looking like Audrey Hepburn"
 
+/color [color scheme]
+
+# Generate 5 scenes incorporating the specified color scheme. And then translate each to Chinese as well.
+
+/mood [mood]
+
+# Generate 5 scenes with the specified mood. And then translate each to Chinese as well.
+
+/time [time of day]
+
+# Generate 5 scenes set during the specified time of day. And then translate each to Chinese as well.
+
 """
 
 
